@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oi! Eu sou Cyro RenATO
 - 👀 I’m interested in technologies and learn effectively program
 - 🌱 I’m currently learning python, HTML and CSS
 
