@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Cyro56, I'm Brazilian 
+- 👋 Hi, I’m Cyro Renato, I'm Brazilian 
 - 👀 I’m interested in technologies and learn effectively program
 - 🌱 I’m currently learning python, HTML and CSS
