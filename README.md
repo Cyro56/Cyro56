@@ -1,6 +1,5 @@
 ## Oi! Eu sou Cyro Renato
-- 👀 I’m interested in technologies and learn effectively program
-- 🌱 I’m currently learning python, HTML and CSS
+
 
  <div>
   <a href="https://github.com/Cyro56">
